@@ -1,28 +1,33 @@
 [
     {
       "id": "01",
-      "name": "Breaking News"
+      "name": "Programming With C",
+      "img": "https://i.postimg.cc/263WSn4g/2328082.jpg"
     },
     {
       "id": "02",
-      "name": "Regular News"
+      "name": "Programming With C++",
+      "img": "https://i.postimg.cc/263WSn4g/2328082.jpg"
     },
     {
       "id": "03",
-      "name": "International News"
+      "name": "Programming With JAVA",
+      "img": "https://i.postimg.cc/263WSn4g/2328082.jpg"
     },
     {
       "id": "04",
-      "name": "Sports",
-      "img": "https://ibb.co/vLNxndF"
+      "name": "Javascript",
+      "img": "https://i.postimg.cc/Dy7Zjxsc/19199360.jpg"
     },
     {
       "id": "05",
-      "name": "Entertainment"
+      "name": "CSS",
+      "img": "https://i.postimg.cc/263WSn4g/2328082.jpg"
     },
     {
       "id": "06",
-      "name": "Culture"
+      "name": "Python",
+      "img": "https://i.postimg.cc/rs1Ddb4D/istockphoto-1218905862-612x612.jpg"
     }
     
   ]
