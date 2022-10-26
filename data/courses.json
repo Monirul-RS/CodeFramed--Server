@@ -1,22 +1,22 @@
 [
     {
       "id": "01",
-      "name": "Html",
+      "name": "HTML",
       "img": "https://i.postimg.cc/nLQkMF3T/html-programming-advanced-technology-web-concept.jpg"
     },
     {
       "id": "02",
-      "name": "Php",
+      "name": "PHP",
       "img": "https://i.postimg.cc/nVTvF9Hp/php-coding-computer-css-data-digital-function-concept.jpg"
     },
     {
       "id": "03",
-      "name": "Programming With JAVA",
+      "name": "JAVA",
       "img": "https://i.postimg.cc/L8CnZjJ3/istockphoto-870344898-170667a.jpg"
     },
     {
       "id": "04",
-      "name": "Javascript",
+      "name": "JAVASCRIPT",
       "img": "https://i.postimg.cc/Dy7Zjxsc/19199360.jpg"
     },
     {
@@ -26,7 +26,7 @@
     },
     {
       "id": "06",
-      "name": "Python",
+      "name": "PYTHON",
       "img": "https://i.postimg.cc/rs1Ddb4D/istockphoto-1218905862-612x612.jpg"
     }
     

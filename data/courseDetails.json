@@ -1,0 +1,97 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "course_id": "01",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_class": 50,
+        "price" : "30$",
+        "name" :"HTML",
+        "title": "HTML for Beginners",
+        "class_duration": "200h",
+        "img": "https://i.postimg.cc/nLQkMF3T/html-programming-advanced-technology-web-concept.jpg",
+        "details": "Become a HTML Pro with these valuable skills. Find the right instructor for you. Choose from many topics, skill levels, and languages. Courses in 60+ Languages. Over 204,000 Courses. Lifetime Access. "
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "course_id": "02",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_class": 60,
+        "price" : "40$",
+        "name" :"PHP",
+        "title": "PHP for Beginners",
+        "class_duration": "250h",
+        "img": "https://i.postimg.cc/nVTvF9Hp/php-coding-computer-css-data-digital-function-concept.jpg",
+        "details": "PHP is a server side scripting language that is embedded in HTML. It is used to manage dynamic content, databases, session tracking, even build entire e-commerce sites. It is integrated with a number of popular databases, including MySQL, PostgreSQL, Oracle, Sybase, Informix, and Microsoft SQL Server."
+    },
+    
+    {
+        "_id": "f69a695f037cd9484cecaea37ca71012",
+        "course_id": "03",
+        "rating": {
+            "number": 4.3,
+            "badge": "Excellent"
+        },
+        "total_class": 60,
+        "price" : "50$",
+        "name" :"JAVA",
+        "title": "Programming With JAVA",
+        "class_duration": "230h",
+        "img": "https://i.postimg.cc/L8CnZjJ3/istockphoto-870344898-170667a.jpg",
+        "details": "Java is a general-purpose, class-based, object-oriented programming language designed for having lesser implementation dependencies. It is a computing platform for application development. Java is fast, secure, and reliable, therefore. It is widely used for developing Java applications in laptops, data centers, game consoles, scientific supercomputers, cell phones, etc."
+    },
+   
+    
+    {
+        "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
+        "course_id": "04",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_class": 40,
+        "price" : "35$",
+        "name" :"JAVASCRIPT",
+        "title": "Diploma in JavaScript",
+        "class_duration": "220h",
+        "img": "https://i.postimg.cc/Dy7Zjxsc/19199360.jpg",
+        "details": "JavaScript is a dynamic computer programming language. It is lightweight and most commonly used as a part of web pages, whose implementations allow client-side script to interact with the user and make dynamic pages. It is an interpreted programming language with object-oriented capabilities."
+    },
+    {
+        "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
+        "course_id": "05",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_class": 45,
+        "price" : "45$",
+        "name" :"CSS",
+        "title": "CSS for Beginners",
+        "class_duration": "180h",
+        "img": "https://i.postimg.cc/T3YKwt3P/Vp9-Wv-V7-YKd-H4k8s-KRe-Pc-E8-1200-80.jpg",
+        "details": "Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript."
+    },  
+    {
+        "_id": "cd2b53655737cc4077542baea9f8f75d",
+        "course_id": "06",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_class": 70,
+        "price" : "50$",
+        "name" :"PYTHON",
+        "title": "Python for Beginners",
+        "class_duration": "220h",
+        "img": "https://i.postimg.cc/rs1Ddb4D/istockphoto-1218905862-612x612.jpg",
+        "details": "Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems."
+    }
+]
+
+
