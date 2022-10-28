@@ -1,33 +1,32 @@
 [
-    {
-      "id": "01",
-      "name": "HTML",
-      "img": "https://i.postimg.cc/nLQkMF3T/html-programming-advanced-technology-web-concept.jpg"
-    },
-    {
-      "id": "02",
-      "name": "PHP",
-      "img": "https://i.postimg.cc/nVTvF9Hp/php-coding-computer-css-data-digital-function-concept.jpg"
-    },
-    {
-      "id": "03",
-      "name": "JAVA",
-      "img": "https://i.postimg.cc/L8CnZjJ3/istockphoto-870344898-170667a.jpg"
-    },
-    {
-      "id": "04",
-      "name": "JAVASCRIPT",
-      "img": "https://i.postimg.cc/Dy7Zjxsc/19199360.jpg"
-    },
-    {
-      "id": "05",
-      "name": "CSS",
-      "img": "https://i.postimg.cc/T3YKwt3P/Vp9-Wv-V7-YKd-H4k8s-KRe-Pc-E8-1200-80.jpg"
-    },
-    {
-      "id": "06",
-      "name": "PYTHON",
-      "img": "https://i.postimg.cc/rs1Ddb4D/istockphoto-1218905862-612x612.jpg"
-    }
-    
-  ]
+  {
+    "id": "01",
+    "name": "HTML",
+    "img": "https://i.postimg.cc/nLQkMF3T/html-programming-advanced-technology-web-concept.jpg"
+  },
+  {
+    "id": "02",
+    "name": "PHP",
+    "img": "https://i.postimg.cc/nVTvF9Hp/php-coding-computer-css-data-digital-function-concept.jpg"
+  },
+  {
+    "id": "03",
+    "name": "JAVA",
+    "img": "https://i.postimg.cc/L8CnZjJ3/istockphoto-870344898-170667a.jpg"
+  },
+  {
+    "id": "04",
+    "name": "JAVASCRIPT",
+    "img": "https://i.postimg.cc/Dy7Zjxsc/19199360.jpg"
+  },
+  {
+    "id": "05",
+    "name": "CSS",
+    "img": "https://i.postimg.cc/T3YKwt3P/Vp9-Wv-V7-YKd-H4k8s-KRe-Pc-E8-1200-80.jpg"
+  },
+  {
+    "id": "06",
+    "name": "PYTHON",
+    "img": "https://i.postimg.cc/rs1Ddb4D/istockphoto-1218905862-612x612.jpg"
+  }
+]
